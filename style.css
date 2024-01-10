@@ -60,13 +60,13 @@ section > p {
 }
 
 section#img01 {
-    background-image: url('../d012/imagens/background1.jpeg');
+    background-image: url('');
     background-position: right center;
 }
 
 
 section#img02 {
-    background-image: url('../d012/imagens/background2.jpeg');
+    background-image: url('');
 }
 
 section.imagem > p {
